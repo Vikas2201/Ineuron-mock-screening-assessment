@@ -1,0 +1,12 @@
+
+2022-06-06/22:25:03		Entered in main.py python file
+
+2022-06-06/22:25:20		Replacement of string complete
+
+2022-06-06/22:27:35		Entered in main.py python file
+
+2022-06-06/22:27:50		Replacement of string complete
+
+2022-06-06/22:29:11		Entered in main.py python file
+
+2022-06-06/22:29:25		Replacement of string complete
